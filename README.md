@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jblesa/jblesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 ## ***Software developer, PhD in telecommunications***
 
 Based in Madrid  🛫 Travelling the World 👨‍💻 Work Globally
+
+[Twitter](https://twitter.com/jblesa) - [LinkedIn](https://www.notion.so/jblesa/4ab06e1016ad403caf312e8aa06d1657)
 
 # 📑 Summary
 
