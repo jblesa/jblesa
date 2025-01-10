@@ -51,9 +51,21 @@ From late 2018 until today has been software engineer in UAV Navigation. His wor
 
 # 👨‍💻 Work experience
 
+### Oesía Director - Head of software and IT
+
+*UAV Navigation - Grupo Oesía - (2024 - today)
+[UAV Navigation | Cutting-edge Autopilots](https://www.uavnavigation.com/)
+
+[**Works performed in UAV Navigation**](https://www.notion.so/jblesa/d159967c38ff48c2a5733dc84aa214ec?v=a5c31964f8eb4c5a9584eb4161391994)
+
+- Management team of 7 members.
+- IT responsible: servers (Ubuntu, Windows), services (Gitlab, Redmine, Drupal, VMWare).
+- Team formation.
+- SW planning.
+
 ### Embedded software engineer
 
-*UAV Navigation - (2018 - today)*
+*UAV Navigation - Grupo Oesía - (2018 - 2024)
 [UAV Navigation | Cutting-edge Autopilots](https://www.uavnavigation.com/)
 
 [**Works performed in UAV Navigation**](https://www.notion.so/jblesa/d159967c38ff48c2a5733dc84aa214ec?v=a5c31964f8eb4c5a9584eb4161391994)
